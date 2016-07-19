@@ -22,7 +22,7 @@ Here's the source code::
         c_input = toga.TextInput(readonly=True)
         f_input = toga.TextInput()
 
-        c_label = toga.Label('Celcius', alignment=toga.LEFT_ALIGNED)
+        c_label = toga.Label('Celsius', alignment=toga.LEFT_ALIGNED)
         f_label = toga.Label('Fahrenheit', alignment=toga.LEFT_ALIGNED)
         join_label = toga.Label('is equivalent to', alignment=toga.RIGHT_ALIGNED)
 
